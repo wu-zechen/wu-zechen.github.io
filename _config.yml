@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zechen Wu/ Academic Web Page"
+title                    : "Zechen Wu"
 title_separator          : "-"
 name                     : &name "Zechen Wu"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Zechen Wu"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher @Brown CS"
+  bio              : "Researcher @ Brown CS"
   location         : "Providence, RI"
   employer         : "Brown University"
   uri              : # URL

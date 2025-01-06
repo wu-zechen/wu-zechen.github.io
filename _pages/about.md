@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi! I'm Zechen, a researcher in Computer Science at Brown University, working under the guidance of [Amy Greenwald](https://cs.brown.edu/people/faculty/amy/) and [Ronald Parr](https://users.cs.duke.edu/~parr/). <span style="color:red">
-Our latest research paper, A Unifying View of Linear Function Approximation in Off-Policy RL Through Matrix Splitting and Preconditioning, is now available.</span> [Click here to read it.](https://arxiv.org/pdf/2501.01774)
+Our latest research paper, **A Unifying View of Linear Function Approximation in Off-Policy RL Through Matrix Splitting and Preconditioning**, is now available.</span> [Click here to read it.](https://arxiv.org/pdf/2501.01774)
 
 My primary research interest are:
 

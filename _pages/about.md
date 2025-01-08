@@ -17,7 +17,7 @@ My primary research interest are:
 
 * designing efficient RL algorithms capable of solving industrial or real-world problems
 
-* understand the behavior and phenomena of fundamental RL algorithms when combined with neural networks (and other nonlinear function approximators)
+* understanding the behavior and phenomena of fundamental RL algorithms when combined with neural networks (and other nonlinear function approximators)
 
 * connecting reinforcement learning and continual learning
 

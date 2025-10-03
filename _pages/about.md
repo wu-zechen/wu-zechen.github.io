@@ -14,7 +14,7 @@ Hi! I'm Zechen, a PhD student in Computer Science at Duke University advised by 
 - **Sept 18th, 2025:** My NeurIPS 2025 submission, [_A Unifying View of Linear Function Approximation in Off-Policy RL Through Matrix Splitting and Preconditioning_](https://arxiv.org/pdf/2501.01774), was accepted as a <span style="color:red"> **_Spotlight_** </span> (top 3% of submissions).
 
 
-## Research Interest
+## Research Interests
 
 * Theoretical foundations of Reinforcement Learning (RL), especially for deep RL
 

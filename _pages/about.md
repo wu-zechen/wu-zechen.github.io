@@ -16,13 +16,11 @@ Hi! I'm Zechen, a PhD student in Computer Science at Duke University advised by 
 
 ## Research Interest
 
-* understanding behavior, phenomena, and properties of fundamental Reinforcement Learning(RL) algorithms (e.g., Temporal Difference Learning(TD), Q-learning, Policy Gradient) and their derivatives or inspired variants (e.g., Deep Q-Network (DQN), implicit Q-learning) that demonstrate exceptional practical performance, aiming for mathematically provable insights beyond empirical observations and intuition.
+* Theoretical foundations of Reinforcement Learning (RL), especially for deep RL
 
-* designing efficient RL algorithms capable of solving industrial or real-world problems
+* Theory of neural networks and transformers
 
-* understanding the behavior and phenomena of fundamental RL algorithms when combined with neural networks (and other nonlinear function approximators)
-
-* connecting reinforcement learning and continual learning
+* Continual learning and lifelong adaptation
 
 
 

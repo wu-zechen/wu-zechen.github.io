@@ -18,7 +18,7 @@ Hi! I'm Zechen, a PhD student in Computer Science at Duke University advised by 
   Many thanks to the **NeurIPS Foundation** for the **NeurIPS 2025 Scholar Award**, which is supporting my travel to the conference.
 
 
-- **Sept 18th, 2025:** My first-author paper, [_A Unifying View of Linear Function Approximation in Off-Policy RL Through Matrix Splitting and Preconditioning_](https://openreview.net/pdf?id=pH3daDPj4c), was accepted to **NeurIPS 2025** as a <span style="color:red"> **_Spotlight_** </span> presentation (top 3% of submissions).
+- **Sept 18th, 2025:** My first-author paper, [_A Unifying View of Linear Function Approximation in Off-Policy RL Through Matrix Splitting and Preconditioning_](https://arxiv.org/abs/2501.01774), was accepted to **NeurIPS 2025** as a <span style="color:red"> **_Spotlight_** </span> presentation (top 3% of submissions).
 
 
 ## Research Interests

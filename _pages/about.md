@@ -22,12 +22,9 @@ Hi! I'm Zechen, a PhD student in Computer Science at Duke University advised by 
 
 
 ## Research Interests
+Keywords: **Theoretical foundations of Reinforcement Learning (RL)**, **deep RL**, **Continual learning**, **foundation model**, **LLMs**
 
-* Theoretical foundations of Reinforcement Learning (RL), especially for deep RL
-
-* Theory of neural networks and transformers
-
-* Continual learning and lifelong adaptation
+I study the theoretical foundations of reinforcement learning (RL) and sequential decision-making, aiming to develop a fundamental understanding of their mechanisms, bridge theory and practice, and design efficient algorithms that solve industrial problems. I am also interested in applying these insights to emerging domains such as the foundation model, with a focus on topics including reasoning, alignment, efficiency, and optimization.
 
 
 
